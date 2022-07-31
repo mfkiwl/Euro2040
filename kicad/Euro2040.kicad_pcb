@@ -2666,7 +2666,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 009b54b2-6a13-4e66-b68d-f14c63200f05)
-    (at 40.64 26.12 180)
+    (at -58.277276 27.784796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -2709,7 +2709,7 @@
 
   (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (layer "B.Cu")
     (tedit 5D9F72B1) (tstamp 0421e6bc-84cf-40a1-8ee9-e618672e2bec)
-    (at 27.497 25.146 180)
+    (at -71.420276 26.810796 180)
     (descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "Euro2040.kicad_sch")
@@ -2778,7 +2778,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 055fdd2d-3e82-4204-bb5e-80ad7302ddd4)
-    (at 43.55 26.12 180)
+    (at -55.367276 27.784796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -2821,7 +2821,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 1047c918-ba9f-45bf-8a4e-9ca83addd7b4)
-    (at 29.275 30.734 180)
+    (at -69.642276 32.398796 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Info" "CC0603KRX7R9BB104 50V 10%")
@@ -2864,7 +2864,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 1912411f-a55c-4bc3-989c-2b4d5d2e7052)
-    (at 46.46 30.1 180)
+    (at -52.457276 31.764796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -2907,7 +2907,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 1ba05e42-128c-4933-86a7-e6ad419274b0)
-    (at 57.54 35.58 180)
+    (at -41.377276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -2950,7 +2950,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 2cc035f9-0290-4813-94b7-8b731131a288)
-    (at 27.525 41.402 180)
+    (at -71.392276 43.066796 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Info" "CC0603KRX7R9BB104 50V 10%")
@@ -2993,7 +2993,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 3f4f6403-fe62-4f4f-a086-77e9147782a1)
-    (at 51.72 35.58 180)
+    (at -47.197276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3036,7 +3036,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 45d36dbe-d8a6-4a7b-9938-176f60e48bea)
-    (at 63.36 35.58 180)
+    (at -35.557276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3079,7 +3079,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 48ef9254-a9e4-4a62-ae28-d47159904d22)
-    (at 46.46 26.12 180)
+    (at -52.457276 27.784796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3122,7 +3122,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 4b3edf07-957b-491f-8f7c-632b48c44448)
-    (at 40.64 24.13 180)
+    (at -58.277276 25.794796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3521,7 +3521,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 541b1509-73ca-4101-8ff6-9b41821c05b3)
-    (at 43.55 28.11 180)
+    (at -55.367276 29.774796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3564,7 +3564,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 62743aa6-a13b-40c0-b186-3652a549c86e)
-    (at 54.63 35.58 180)
+    (at -44.287276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3607,7 +3607,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 63f9c940-5070-4258-963a-1feb57a6ea01)
-    (at 48.81 35.58 180)
+    (at -50.107276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3650,7 +3650,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 7f0e070a-b4b5-4a7b-95df-32147f96c28f)
-    (at 60.45 35.58 180)
+    (at -38.467276 37.244796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3693,7 +3693,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 9d2c8519-e4b5-46ad-80ca-a55ea15220a7)
-    (at 46.46 24.13 180)
+    (at -52.457276 25.794796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3736,7 +3736,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp a66c8ab9-baf5-4438-a8af-be3f05bd37b7)
-    (at 46.46 28.11 180)
+    (at -52.457276 29.774796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3779,7 +3779,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp b30109b9-0eb7-4eb8-956b-4dd6aa135c85)
-    (at 27.751 19.812 180)
+    (at -71.166276 21.476796 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Info" "CC0603KRX7R9BB104 50V 10%")
@@ -3822,7 +3822,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp c6f57275-f4b0-4462-b3fd-e8727540746c)
-    (at 46.46 32.09 180)
+    (at -52.457276 33.754796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3865,7 +3865,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp d1fcd6c9-e9d6-4420-9597-c3534148d5df)
-    (at 26.227 30.706 180)
+    (at -72.690276 32.370796 180)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Info" "CC0603KRX7R9BB104 50V 10%")
@@ -3908,7 +3908,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp d7665587-3744-4ef5-8010-ea2d829b8dbe)
-    (at 43.55 24.13 180)
+    (at -55.367276 25.794796 180)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Info" "50mW 1%")
@@ -3951,7 +3951,7 @@
 
   (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (layer "B.Cu")
     (tedit 5D9F72B1) (tstamp de9a5cb4-79ac-4fc9-8817-613557584816)
-    (at 27.497 36.068 180)
+    (at -71.420276 37.732796 180)
     (descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "Euro2040.kicad_sch")
@@ -4020,18 +4020,18 @@
 
   (gr_rect (start 0 0) (end 15 58.42) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp d76ec66c-d0c1-4040-8259-8685c076073a))
 
-  (segment (start 25.022 36.068) (end 25.398072 36.068) (width 0.25) (layer "B.Cu") (net 69) (tstamp 298cc6e2-8b2a-47f8-869a-4b503a7cf812))
-  (segment (start 25.022 25.146) (end 25.398072 25.146) (width 0.25) (layer "B.Cu") (net 69) (tstamp 574c3ee6-5a2a-49d9-b9b4-bc2fecfa5216))
-  (segment (start 27.045 37.714928) (end 27.045 41.402) (width 0.25) (layer "B.Cu") (net 69) (tstamp 65cb3240-c489-495d-8920-93a8a906a5f0))
-  (segment (start 28.67248 30.61148) (end 28.795 30.734) (width 0.25) (layer "B.Cu") (net 69) (tstamp 678135cc-681f-43e6-aed4-5b200e032ead))
-  (segment (start 25.398072 36.068) (end 27.045 37.714928) (width 0.25) (layer "B.Cu") (net 69) (tstamp 6f800d37-0cde-4abf-bff7-90d6983699d8))
-  (segment (start 25.398072 25.146) (end 28.67248 28.420408) (width 0.25) (layer "B.Cu") (net 69) (tstamp a2647143-02f9-4bdb-819d-66b1138fa014))
-  (segment (start 28.67248 28.420408) (end 28.67248 30.61148) (width 0.25) (layer "B.Cu") (net 69) (tstamp d93126d3-55ca-4f3b-87b2-b6eb70caf13a))
-  (segment (start 29.275 36.068) (end 29.972 36.068) (width 0.25) (layer "B.Cu") (net 70) (tstamp 01261dd2-aeed-4b1b-9978-9034040ccec6))
-  (segment (start 26.707 30.706) (end 26.707 33.5) (width 0.25) (layer "B.Cu") (net 70) (tstamp 054e6357-b3a2-41dd-bdee-db9c4bb94842))
-  (segment (start 26.707 33.5) (end 29.275 36.068) (width 0.25) (layer "B.Cu") (net 70) (tstamp ca75d7c4-a3b1-4ca2-9179-06c0cd5b2345))
-  (segment (start 29.595928 25.146) (end 29.972 25.146) (width 0.25) (layer "B.Cu") (net 70) (tstamp e1d7e63f-15e0-40f2-bb37-8218f7ab6a5a))
-  (segment (start 28.231 23.781072) (end 29.595928 25.146) (width 0.25) (layer "B.Cu") (net 70) (tstamp e6fcc82f-a015-4ca6-8a4d-e3d4038def00))
-  (segment (start 28.231 19.812) (end 28.231 23.781072) (width 0.25) (layer "B.Cu") (net 70) (tstamp efd29842-623d-44dc-9938-db106904db2b))
+  (segment (start -73.895276 37.732796) (end -73.519204 37.732796) (width 0.25) (layer "B.Cu") (net 69) (tstamp 298cc6e2-8b2a-47f8-869a-4b503a7cf812))
+  (segment (start -73.895276 26.810796) (end -73.519204 26.810796) (width 0.25) (layer "B.Cu") (net 69) (tstamp 574c3ee6-5a2a-49d9-b9b4-bc2fecfa5216))
+  (segment (start -71.872276 39.379724) (end -71.872276 43.066796) (width 0.25) (layer "B.Cu") (net 69) (tstamp 65cb3240-c489-495d-8920-93a8a906a5f0))
+  (segment (start -70.244796 32.276276) (end -70.122276 32.398796) (width 0.25) (layer "B.Cu") (net 69) (tstamp 678135cc-681f-43e6-aed4-5b200e032ead))
+  (segment (start -73.519204 37.732796) (end -71.872276 39.379724) (width 0.25) (layer "B.Cu") (net 69) (tstamp 6f800d37-0cde-4abf-bff7-90d6983699d8))
+  (segment (start -73.519204 26.810796) (end -70.244796 30.085204) (width 0.25) (layer "B.Cu") (net 69) (tstamp a2647143-02f9-4bdb-819d-66b1138fa014))
+  (segment (start -70.244796 30.085204) (end -70.244796 32.276276) (width 0.25) (layer "B.Cu") (net 69) (tstamp d93126d3-55ca-4f3b-87b2-b6eb70caf13a))
+  (segment (start -69.642276 37.732796) (end -68.945276 37.732796) (width 0.25) (layer "B.Cu") (net 70) (tstamp 01261dd2-aeed-4b1b-9978-9034040ccec6))
+  (segment (start -72.210276 32.370796) (end -72.210276 35.164796) (width 0.25) (layer "B.Cu") (net 70) (tstamp 054e6357-b3a2-41dd-bdee-db9c4bb94842))
+  (segment (start -72.210276 35.164796) (end -69.642276 37.732796) (width 0.25) (layer "B.Cu") (net 70) (tstamp ca75d7c4-a3b1-4ca2-9179-06c0cd5b2345))
+  (segment (start -69.321348 26.810796) (end -68.945276 26.810796) (width 0.25) (layer "B.Cu") (net 70) (tstamp e1d7e63f-15e0-40f2-bb37-8218f7ab6a5a))
+  (segment (start -70.686276 25.445868) (end -69.321348 26.810796) (width 0.25) (layer "B.Cu") (net 70) (tstamp e6fcc82f-a015-4ca6-8a4d-e3d4038def00))
+  (segment (start -70.686276 21.476796) (end -70.686276 25.445868) (width 0.25) (layer "B.Cu") (net 70) (tstamp efd29842-623d-44dc-9938-db106904db2b))
 
 )
